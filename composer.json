@@ -1,0 +1,8 @@
+{
+    "name": "abreksa4/wikidrain",
+    "description": "A simple PHP wrapper for the WikiMedia API centralized around querying Wikipedia articles",
+    "type": "library",
+    "license": "LGPL-2.1",
+    "minimum-stability": "stable",
+    "require": {}
+}
